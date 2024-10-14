@@ -1,7 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-13T04:37:50.770Z,8.8276,40.141,10,4.6,mb,30,253,3.782,0.69,us,us6000nyds,2024-10-13T16:03:56.696Z,"17 km S of Āwash, Ethiopia",earthquake,8.82,1.998,0.114,23,reviewed,us,us
-2024-10-06T17:10:03.972Z,9.1287,40.3209,10,4.9,mb,67,74,3.445,0.48,us,us6000nwx4,2024-10-08T11:19:58.649Z,"23 km NE of Āwash, Ethiopia",earthquake,8.83,1.856,0.069,65,reviewed,us,us
-2024-09-30T02:44:33.591Z,9.1226,40.0768,10,4.5,mb,28,110,3.627,0.46,us,us7000nh6y,2024-10-06T18:27:57.768Z,"18 km NNW of Āwash, Ethiopia",earthquake,12.31,1.944,0.118,21,reviewed,us,us
-2024-09-27T23:45:24.949Z,8.9123,40.2427,10,4.6,mb,32,262,3.652,0.55,us,us7000ngx8,2024-09-28T03:09:30.996Z,"11 km SE of Āwash, Ethiopia",earthquake,10.51,1.985,0.109,25,reviewed,us,us
-2024-09-27T12:20:07.169Z,9.1917,40.0339,10,4.5,mb,28,111,3.614,0.69,us,us7000ngt3,2024-10-13T11:43:25.040Z,"27 km NNW of Āwash, Ethiopia",earthquake,7.02,1.934,0.113,23,reviewed,us,us
-2024-09-27T04:36:20.269Z,8.9423,40.0832,10,4.9,mb,47,195,3.743,0.67,us,us7000ngr4,2024-09-28T00:28:41.641Z,"10 km WSW of Āwash, Ethiopia",earthquake,13.55,1.957,0.077,53,reviewed,us,us
